@@ -8,7 +8,6 @@ The second module is a more generic forecasting, you can forecast sales based on
 
 Note - The first module is more accurate than the second module, as the first module also considers the product data.
 
-👈 **Please select the project you want to run in the sidebar to start.**
 
 ### Questions? Comments?
 
